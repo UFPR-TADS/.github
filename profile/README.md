@@ -23,13 +23,11 @@ Somos uma organização dedicada a armazenar e compartilhar o código das aplica
 5. **Envie as Alterações:** Envie suas alterações para o repositório remoto (`git push origin minha-branch`).
 6. **Abra um Pull Request:** Abra um pull request para revisão e integração das suas alterações.
 
-<!--
 ## Contato
 
 Para mais informações ou dúvidas, entre em contato conosco:
 
-- **E-mail:** contato@ufprtads.com
-- **Site:** [UFPR TADS](https://www.ufpr.br/tads)
--->
----
+- **Site:** [UFPR TADS](https://www.tads.ufpr.br/)
+- **Discord:** [Servidor do Discord](https://discord.com/channels/1199160829698916362/1199160830596489287)
 
+---
